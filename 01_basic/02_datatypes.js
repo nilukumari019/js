@@ -16,4 +16,4 @@ let name="nilu"
 // object
 
 console.log(typeof(null))  // object
-console.log(typeof(undefined)) // undefined ----it' type
+console.log(typeof(undefined)) // undefined ----it's type
