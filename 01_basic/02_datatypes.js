@@ -10,3 +10,10 @@ let name="nilu"
 // boolean= true/false
 // null => standlone value
 // undefined
+
+// symbol= unique
+
+// object
+
+console.log(typeof(null))  // object
+console.log(typeof(undefined)) // undefined ----it' type
