@@ -24,7 +24,11 @@
 //  console.log(JsUser["email"]);
 
 //  console.log(JsUser["full name"]);
-console.log(mysym);
+// console.log(mysym);
+
+
+
+
 
 
 
